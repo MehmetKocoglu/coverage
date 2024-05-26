@@ -1,0 +1,20 @@
+Windows işletim sistemi
+
+import unittest
+import coverage
+import faktöriyel
+import test_faktöriyel
+import xml.etree.ElementTree as ET
+import matplotlib.pyplot as plt
+import networkx as nx
+from faktöriyel import a
+
+İşlemci : Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz 2.59GHz
+16 GB ram
+x64 bit işletim sistemi
+2060Ti ekran kartı
+768Gb SSD
+
+////////////////////////////
+
+Test Dökümanı: Ran 3 tests in 0.001s
